@@ -1,4 +1,4 @@
-# PDF Summarization(Bryde)
+# PDF Summarization
 
 ### Members
 **6520422005 นายฮาฟิซ   เบ็ญราฮีม**  
